@@ -62,7 +62,7 @@ src/main/java/com/desafio/reservas/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/reservas.git
+git clone https://github.com/Rafael54748/coworking-reservas-api.git
 cd reservas
 ```
 
