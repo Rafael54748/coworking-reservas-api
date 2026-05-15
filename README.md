@@ -63,7 +63,6 @@ src/main/java/com/desafio/reservas/
 
 ```bash
 git clone https://github.com/Rafael54748/coworking-reservas-api.git
-cd reservas
 ```
 
 ### 2. Rodar a aplicação
