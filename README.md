@@ -136,8 +136,8 @@ POST /api/v1/reservas
 {
   "salaId": 1,
   "responsavel": "João Silva",
-  "inicio": "2025-06-15T09:00",
-  "fim": "2025-06-15T10:00"
+  "inicio": "2026-06-15T09:00",
+  "fim": "2026-06-15T10:00"
 }
 ```
 
@@ -145,19 +145,19 @@ POST /api/v1/reservas
 ```json
 POST /api/v1/reservas/salas-livres
 {
-  "inicio": "2025-06-15T09:00",
-  "fim": "2025-06-15T10:00"
+  "inicio": "2026-06-15T09:00",
+  "fim": "2026-06-15T10:00"
 }
 ```
 
 #### Exemplo — Consultar agenda diária
 ```
-GET /api/v1/reservas/agenda?data=2025-06-15
+GET /api/v1/reservas/agenda?data=2026-06-15
 ```
 
 #### Exemplo — Agenda por sala e dia
 ```
-GET /api/v1/reservas/agenda/sala/1?data=2025-06-15
+GET /api/v1/reservas/agenda/sala/1?data=2026-06-15
 ```
 
 ---
